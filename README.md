@@ -16,4 +16,8 @@ https://musical-gelato-61be3a.netlify.app/      ||   host link of parallax effec
 
 
 
+https://flourishing-tartufo-912919.netlify.app/    || host link of Hotstar Clone Landing page
+
+
+
 
